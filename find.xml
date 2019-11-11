@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\src\androidTest\java\com\example\android\android_me\ExampleInstrumentedTest.java [app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\androidTest\java\com\example\android\android_me\ExampleInstrumentedTest.java [app]'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\androidTest\java\com\example\android\android_me\ExampleInstrumentedTest.java [app]'" />
+    <option name="customScope" value="File '...\app\src\main\res\layout-sw600dp\activity_main.xml [app]'" />
+    <option name="defaultScopeName" value="File '...\app\src\main\res\layout-sw600dp\activity_main.xml [app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app\src\main\res\layout-sw600dp\activity_main.xml [app]'" />
   </component>
 </application>
