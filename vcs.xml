@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/s-ayush2903/Android_Me.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/s-ayush2903/ud843_Soonami.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\New folder\Git_Projects" />
