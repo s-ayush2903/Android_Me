@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="New File" type="PLAIN_TEXT" />
-      <mapping pattern="bdaycard" type="PLAIN_TEXT" />
       <mapping pattern="buildOutputCleanup.lock" type="PLAIN_TEXT" />
+      <mapping pattern="bdaycard" type="PLAIN_TEXT" />
       <mapping ext="salive" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="res" type="PLAIN_TEXT" />
       <mapping pattern="TrailerApp" type="XML" />
       <mapping pattern="Bcard" type="XML" />
     </extensionMap>
