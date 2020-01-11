@@ -50,8 +50,16 @@
           <option name="url" value="https://github.com/s-ayush2903/ud839_Miwok.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/s-ayush2903/media-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/s-ayush2903/WhatsApp-Direct-Message.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\New folder\Git_Projects" />
+    <option name="cloneParentDir" value="D:\Development\Dev Materials\ProtoFiles" />
   </component>
 </application>
